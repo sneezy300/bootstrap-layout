@@ -1,0 +1,35 @@
+.nav {
+	background-color: orange;
+	height: 80px;
+}
+
+.hero {
+	background-color: blue;
+	height: 200px;
+	margin-top: 15px;
+}
+
+.body1 {
+	background-color: yellow;
+	height: 200px;
+	margin-top: 15px;
+}
+
+.body2 {
+	background-color: pink;
+	height: 200px;
+	margin-top: 15px;
+}
+
+.body3 {
+	background-color: violet;
+	height: 200px;
+	margin-top: 15px;
+	
+}
+
+.footer {
+	background-color: green;
+	height: 80px;
+	margin-top: 15px;
+}
